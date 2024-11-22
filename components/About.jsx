@@ -53,6 +53,7 @@ const About = () => {
                       "Fullstack Developer",
                       "Mern stack Developer",
                       "Nodejs Developer",
+                      "Software Engineer",
                       "",
                     ]}
                     loop={500}

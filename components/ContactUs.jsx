@@ -97,10 +97,10 @@ const ContactUs = () => {
 
               <div className="space-y-4 font-semibold md:text-lg">
                 <p className="flex gap-2">
-                  <PhoneCall />: +91 9460956323
+                  <PhoneCall />: +91 9352955966
                 </p>
                 <p className="flex gap-1 md:gap-2">
-                  <Mail />: rahul.techsunset@gmail.com
+                  <Mail />: techsunsetrahul@gmail.com
                 </p>
               </div>
 

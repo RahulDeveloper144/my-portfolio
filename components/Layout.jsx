@@ -11,7 +11,7 @@ import ContactUs from "./ContactUs";
 const Layout = ({ children }) => {
   const test = "z";
   const downloadPdf = () => {
-    const pdfUrl = "Rahul-Resume.pdf";
+    const pdfUrl = "Rahul.pdf";
     const link = document.createElement("a");
     link.href = pdfUrl;
     link.download = "Rahul.pdf";

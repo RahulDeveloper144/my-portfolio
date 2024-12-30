@@ -58,11 +58,11 @@ const MyResume = () => {
               <div className="flex flex-col gap-4">
                 <span className="flex items-center gap-4">
                   <PhoneCall color="#3d6062" />
-                  <p>9460956323</p>
+                  <p>9352955966</p>
                 </span>
                 <span className="flex items-center gap-4">
                   <Mail color="#3d6062" />
-                  <p>rahul.techsunset@gmail.com</p>
+                  <p>techsunsetrahul@gmail.com</p>
                 </span>
                 <span className="flex items-center gap-4">
                   <MapPinHouse color="#3d6062" />
